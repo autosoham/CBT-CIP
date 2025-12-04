@@ -1,6 +1,7 @@
 # Introduction
 I have created these two projects in Java Language as assigned to me by CipherByte Technologies to address practical needs in Library and finance management.
-
+# Disclaimer
+This project was created while i was beginning to explore java and AI tools. I plan to revisit and improve it as i learn the concepts.
 # Project: Lib catalogue management system
 The Library Catalog System is a console-based Java application that allows users to manage a collection of books. Users can add books by entering their title and author, search for books by title or author, and list all books in the catalog. It provides a simple interface to efficiently organize and retrieve book information, demonstrating core Java concepts like object-oriented programming, encapsulation, and user interaction through the console.
 
